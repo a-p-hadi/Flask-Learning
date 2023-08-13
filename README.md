@@ -10,8 +10,10 @@ source venv/bin/activate
 
 **lesson 1**\
 Run the `00_chair.py` and `00_desk.py` files to understand the use of the \_\_name\_\_ variable
-> python 00_chair.py<br />
-> python 00_desk.py
+```bash
+python 00_chair.py
+python 00_desk.py
+```
 <br />
 <br />
 
