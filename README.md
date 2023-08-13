@@ -92,6 +92,7 @@ python 08_FileUpload.py
 <br />
 <br />
 
+## Supported Content
 - [x] Create Simple API\
 - [x] Variable in URL\
 - [x] GET Method\
