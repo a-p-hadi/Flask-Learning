@@ -92,8 +92,8 @@ python 08_FileUpload.py
 <br />
 <br />
 
-[*]Create Simple API\
-[*] Variable in URL\
+- [*]Create Simple API\
+-[*] Variable in URL\
 [x] GET Method\
 [x]POST Method\
 [x] Database Connect\
