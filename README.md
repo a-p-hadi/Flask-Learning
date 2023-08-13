@@ -1,10 +1,12 @@
 # Flask-Learning
 This resource contains a number of Python codes using the Flask library, and you will learn how to set up web services using it.
-To run programs, you must first enter its virtual environment \
+To run programs, you must first enter its virtual environment 
+
 in Linux:
 ```bash
 source venv/bin/activate
 ```
+<br />
 
 **lesson 1**\
 Run the `00_chair.py` and `00_desk.py` files to understand the use of the __name__ variable
