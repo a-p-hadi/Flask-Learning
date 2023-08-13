@@ -1,0 +1,1 @@
+print('in chair.py file:', __name__)
