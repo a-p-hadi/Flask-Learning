@@ -92,11 +92,11 @@ python 08_FileUpload.py
 <br />
 <br />
 
-[*] Create Simple API
-[*] Variable in URL
-[*] GET Method
-[*] POST Method
-[*] Database Connect
-[*] RFM
+[x] Create Simple API
+[x] Variable in URL
+[x] GET Method
+[x] POST Method
+[x] Database Connect
+[x] RFM
 [ ] Predictor API
 
