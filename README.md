@@ -58,9 +58,17 @@ python 05_POST.py
 <br />
 
 **Lesson 7**\
-
+In this lesson, we will learn how to use both "GET" and "POST" methods in the same address.
 ```bash
 python 06_Methods.py
+```
+<br />
+<br />
+
+**Lesson 8**\
+
+```bash
+python 07_Database.py
 ```
 <br />
 <br />
