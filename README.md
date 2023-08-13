@@ -56,3 +56,12 @@ python 05_POST.py
 ```
 <br />
 <br />
+
+**Lesson 7**\
+
+```bash
+python 06_Methods.py
+```
+<br />
+<br />
+
