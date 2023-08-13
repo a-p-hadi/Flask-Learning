@@ -6,7 +6,7 @@ source venv/bin/activate
 
 **lesson 1**\
 Run the `00_chair.py` and `00_desk.py` files to understand the use of the __name__ variable
-> python 00_chair.py
+> python 00_chair.py\
 > python 00_desk.py
 <br />
 <br />
