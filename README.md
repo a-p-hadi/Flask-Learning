@@ -54,7 +54,7 @@ python 04_GET.py
 <br />
 
 **Lesson 6**\
-The purpose of this course is to familiarize you with the "POST" method. By executing this code, you will launch a webservice that you must send two numbers to when calling it, and it will return their sum and product in json format.
+The purpose of this course is to familiarize you with the "POST" method. By executing this code, you will launch a webservice that you must send two numbers to when calling it, and it will return their sum and product in json format. Just remember to pass the num1 and num2 attributes in the body.
 ```bash
 python 05_POST.py
 ```
