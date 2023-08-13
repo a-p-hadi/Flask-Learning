@@ -2,10 +2,11 @@
 
 ```bash
 source venv/bin/activate
+```
 
 lesson 1
 Run the 00_chair.py and 00_desk.py files to understand the use of the __name__ variable
-
+> python 00_chair.py
 lesson 2
 In this lesson, we receive data for the next 4 days in Jason format from a weather forecasting web service
 
