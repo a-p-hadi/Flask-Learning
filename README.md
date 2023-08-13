@@ -16,11 +16,13 @@ In this lesson, we receive data for the next 4 days in Jason format from a weath
 > python 01_get_API.py
 <br />
 <br />
+
 **lesson 3**\
 In this lesson, we will set up a very simple web service with the Flask library
 > python 02_Start_Flask.py
 <br />
 <br />
+
 **lesson 4**\
 \
 > python 03_URL_Variable.py
