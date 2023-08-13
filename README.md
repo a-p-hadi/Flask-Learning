@@ -19,28 +19,40 @@ python 00_desk.py
 
 **lesson 2**\
 In this lesson, we receive data for the next 4 days in Jason format from a weather forecasting web service
-> python 01_get_API.py
+```bash
+python 01_get_API.py
+```
 <br />
 <br />
 
 **lesson 3**\
 In this lesson, we will set up a very simple web service with the Flask library
-> python 02_Start_Flask.py
+```bash
+python 02_Start_Flask.py
+```
 <br />
 <br />
 
 **lesson 4**\
 In this code, you will get to know how to receive data through URL
-> python 03_URL_Variable.py
+```bash
+python 03_URL_Variable.py
+```
 <br />
 <br />
 
 **Lesson 5**\
-The purpose of this lesson is to get familiar with the get method in web services. By executing this code, you can send 2 numbers to the server and receive the product and sum of them in Jason format
+The purpose of this lesson is to get familiar with the "GET" method in web services. By executing this code, you can send 2 numbers to the server and receive the product and sum of them in json format
+```bash
+python 04_GET.py
+```
 <br />
 <br />
 
 **Lesson 6**\
-\
+The purpose of this course is to familiarize you with the "POST" method. By executing this code, you will launch a webservice that you must send two numbers to when calling it, and it will return their sum and product in json format.
+```bash
+python 05_POST.py
+```
 <br />
 <br />
