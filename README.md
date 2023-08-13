@@ -30,7 +30,7 @@ In this lesson, we will set up a very simple web service with the Flask library
 ```bash
 python 02_Start_Flask.py
 ```
-> 192.168.1.2:5000/
+> 192.168.1.2:5000/\
 > 192.168.1.2:5000/login
 <br />
 <br />
@@ -67,7 +67,7 @@ In this lesson, we will learn how to use both "GET" and "POST" methods in the sa
 ```bash
 python 06_Methods.py
 ```
-> 192.168.1.2:5000/math?num1=10&num2=14
+> 192.168.1.2:5000/math?num1=10&num2=14\
 > 192.168.1.2:5000/math
 <br />
 <br />
@@ -77,6 +77,9 @@ This lesson consists of 2 parts, the first part is connecting to the SQLServer d
 ```bash
 python 07_Database.py
 ```
+> 192.168.1.2:5000/Purchasing.Vendor\
+> 192.168.1.2:5000/rfm?customer_id=14324\
+> 192.168.1.2:5000/rfm
 <br />
 <br />
 
@@ -85,6 +88,7 @@ By running this code, you can send a file to the web service using the post meth
 ```bash
 python 08_FileUpload.py
 ```
+> 192.168.1.2:5000/upload
 <br />
 <br />
 
