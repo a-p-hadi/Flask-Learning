@@ -9,7 +9,7 @@ source venv/bin/activate
 <br />
 
 **lesson 1**\
-Run the `00_chair.py` and `00_desk.py` files to understand the use of the \__name__ variable
+Run the `00_chair.py` and `00_desk.py` files to understand the use of the \_\_name\_\_ variable
 > python 00_chair.py<br />
 > python 00_desk.py
 <br />
@@ -28,7 +28,7 @@ In this lesson, we will set up a very simple web service with the Flask library
 <br />
 
 **lesson 4**\
-In this code, you will get to know how to receive data through URL\
+In this code, you will get to know how to receive data through URL
 > python 03_URL_Variable.py
 <br />
 <br />
