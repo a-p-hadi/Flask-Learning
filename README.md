@@ -8,8 +8,8 @@ source venv/bin/activate
 Run the `00_chair.py` and `00_desk.py` files to understand the use of the __name__ variable
 > python 00_chair.py
 > python 00_desk.py
-
-
+<br />
+<br />
 
 **lesson 2**\
 In this lesson, we receive data for the next 4 days in Jason format from a weather forecasting web service
