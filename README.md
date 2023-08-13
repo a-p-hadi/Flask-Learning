@@ -66,9 +66,17 @@ python 06_Methods.py
 <br />
 
 **Lesson 8**\
-
+This lesson consists of 2 parts, the first part is connecting to the SQLServer database in the Linux and the second part is sending the data received from the database to the webservice. The guide for the first part will be at the end of the article.
 ```bash
 python 07_Database.py
+```
+<br />
+<br />
+
+**Lesson 9**\
+
+```bash
+python 08_FileUpload.py
 ```
 <br />
 <br />
