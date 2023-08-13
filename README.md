@@ -30,6 +30,8 @@ In this lesson, we will set up a very simple web service with the Flask library
 ```bash
 python 02_Start_Flask.py
 ```
+> 192.168.1.2:5000/
+> 192.168.1.2:5000/login
 <br />
 <br />
 
@@ -38,6 +40,7 @@ In this code, you will get to know how to receive data through URL
 ```bash
 python 03_URL_Variable.py
 ```
+> 192.168.1.2:5000/fruitcode/banana
 <br />
 <br />
 
@@ -46,6 +49,7 @@ The purpose of this lesson is to get familiar with the "GET" method in web servi
 ```bash
 python 04_GET.py
 ```
+> 192.168.1.2:5000/math?num1=10&num2=14
 <br />
 <br />
 
@@ -54,6 +58,7 @@ The purpose of this course is to familiarize you with the "POST" method. By exec
 ```bash
 python 05_POST.py
 ```
+> 192.168.1.2:5000/math
 <br />
 <br />
 
@@ -62,6 +67,8 @@ In this lesson, we will learn how to use both "GET" and "POST" methods in the sa
 ```bash
 python 06_Methods.py
 ```
+> 192.168.1.2:5000/math?num1=10&num2=14
+> 192.168.1.2:5000/math
 <br />
 <br />
 
@@ -74,7 +81,7 @@ python 07_Database.py
 <br />
 
 **Lesson 9**\
-
+By running this code, you can send a file to the web service using the post method.
 ```bash
 python 08_FileUpload.py
 ```
