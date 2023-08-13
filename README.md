@@ -28,5 +28,17 @@ In this lesson, we will set up a very simple web service with the Flask library
 <br />
 
 **lesson 4**\
-\
+In this code, you will get to know how to receive data through URL\
 > python 03_URL_Variable.py
+<br />
+<br />
+
+**Lesson 5**\
+The purpose of this lesson is to get familiar with the get method in web services. By executing this code, you can send 2 numbers to the server and receive the product and sum of them in Jason format
+<br />
+<br />
+
+**Lesson 6**\
+\
+<br />
+<br />
