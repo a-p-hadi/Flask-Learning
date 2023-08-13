@@ -9,7 +9,7 @@ source venv/bin/activate
 <br />
 
 **lesson 1**\
-Run the `00_chair.py` and `00_desk.py` files to understand the use of the __name__ variable
+Run the `00_chair.py` and `00_desk.py` files to understand the use of the \__name__ variable
 > python 00_chair.py<br />
 > python 00_desk.py
 <br />
